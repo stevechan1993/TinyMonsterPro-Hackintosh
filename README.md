@@ -10,7 +10,7 @@
 | 操作系统 |           macOS `Ventura` / `Monterey` / `Big Sur`           |
 |  处理器  |                 英特尔 酷睿 i5-10600K 6C12T                 |
 |   内存   |                        64 GB 2667MHz                         |
-| 硬盘1/2  |     Nvme Only: `WD_BLACK SN7570 1TB`/Nvme+SATA双协议插槽      |
+| 硬盘1/2  |     Nvme Only: `WD_BLUE SN570 1TB`/Nvme+SATA双协议插槽      |
 | 硬盘3/4  |                 可接SATA 2.5寸硬盘/SATA SSD                  |
 |   显卡   |       Intel UHD Graphics 630/可插独立显卡/独显独立供电       |
 |  显示器  |                 支持`3840x2160 4K@60Hz`双显                  |
