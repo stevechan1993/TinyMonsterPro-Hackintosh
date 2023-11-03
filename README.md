@@ -14,7 +14,7 @@
 | 硬盘3/4  |                 可接SATA 2.5寸硬盘/SATA SSD                  |
 |   显卡   |       Intel UHD Graphics 630/可插独立显卡/独显独立供电       |
 |  显示器  |                 支持`3840x2160 4K@60Hz`双显                  |
-|   声卡   |                  Realtek ALC269 `alcid=33`                   |
+|   声卡   |                  Realtek ALC269 `alcid=33` 3.5mm耳机孔        |
 |   网卡   | m.2 NGFF插槽，已更换为[BCM94360CS2]需要转接板(https://blog.daliansky.net/uploads/WeChatandShop.png) |
 
 ## 更新日志
